@@ -1,5 +1,6 @@
 #data analysis-project
-coffee shop sales
+coffee shop sales analsys
+
 This project presents an end-to-end data analytics solution for a coffee shop using SQL for data analysis and Power BI for interactive dashboard visualization.
 
 The objective was to transform raw transactional data into actionable business insights that can support operational and strategic decision-making.
