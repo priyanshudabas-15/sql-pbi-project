@@ -1,2 +1,2 @@
-# sql-project
+#data analysis-project
 coffee shop sales
